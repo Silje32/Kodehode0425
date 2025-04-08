@@ -21,6 +21,10 @@ h1 {
   padding: 10px;
 }
 
+h2 {
+  line-height: 50px;
+}
+
 footer {
   font-family: Georgia, "Times New Roman", Times, serif;
   border-color: blueviolet;
