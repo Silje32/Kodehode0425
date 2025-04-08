@@ -16,6 +16,11 @@ h3 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+
 footer {
   font-family: Georgia, "Times New Roman", Times, serif;
   border-color: blueviolet;
